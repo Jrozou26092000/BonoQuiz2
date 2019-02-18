@@ -1,0 +1,32 @@
+--------------Explicación uso del formato-----------------
+1 Tipo: Profesional, Tecnológico o Educación continuada.
+2 Nombre: Nombre de la sede.
+3 Dirección: Dirección de la sede.
+4 Teléfono: Teléfono de la sede.
+5 Área construida: Área total contruida en mtros cuadrados.
+6 Programas alta calidad: Sólo aplica para sedes de tipo Profesional.
+7 Curso más popular: Sólo aplica para sedes de tipo Educación continuada.
+8 Estudaintes matriculados: Sólo aplica para sedes de tipo Tecnológico.
+9 Programas ofrecidos: Progrmas de formación que ofrece la sede.
+-------------------------------------------------------------
+Profesional
+bogota
+1
+2
+3
+4
+-------------------------------------------------------------
+Tecnológico
+cali
+5
+6
+7
+8
+-------------------------------------------------------------
+Educación continuada
+caqueta
+0
+11
+22
+33
+-------------------------------------------------------------
